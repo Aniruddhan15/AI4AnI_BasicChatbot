@@ -1,0 +1,13 @@
+Getting started with your Gradio Space.
+Your Space is online and ready to be updated.
+Start by cloning this Space repository using git:
+Use an access token as git password/credential
+
+# When prompted for a password, use an access token with write permissions.
+# Generate one from your settings: https://huggingface.co/settings/tokens
+git clone https://huggingface.co/spaces/Aniruddhan/AI4AnI
+
+
+Modify the files locally, then commit and push:
+git commit -am "Update space"
+git push
